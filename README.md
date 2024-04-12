@@ -4,8 +4,8 @@ The Recipe Manager Application is a command-line tool designed to help users org
 **Steps for viewing the project:**
 1. Open the first file that is written **[ST10381088]-[Lindokuhle Zwane]-PROG6221-PART-1.**
 2. Secondly it will contain 4 C-Sharp Classes that consist of different projects for the Recipe Application.
-3. The Program.cs file consist the main method that is executed when running the application.
-4. Running the application **(Program.cs)**it will show you options of the Recipe Manager.
+3. The **Program.cs** file consist the main method that is executed when running the application.
+4. Running the application **(Program.cs)** it will show you options of the Recipe Manager.
 5. You will find Option to choose **1. Enter new recipe 2. Display the recipe 3. Scale the recipe 4. Reset recipe scale 5. Clear all the data 6. Exist.**
 6. **Enter a New Recipe:** Users can enter details for a new recipe, including ingredients and steps. They can specify the name, quantity, and unit of measurement for each ingredient, as well as the description for each step in the recipe.
 7. **Display Recipe:** Users can view the details of the currently entered recipe, including the list of ingredients and the steps involved in preparing the recipe. If no recipe is entered, the application prompts the user to enter a recipe first.
