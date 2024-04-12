@@ -12,7 +12,7 @@ The Recipe Manager Application is a command-line tool designed to help users org
 8. **Scale Recipe:** Users can scale the quantities of ingredients in the recipe by a specified factor. This feature allows users to adjust the serving size of the recipe according to their needs.
 9. **Reset Recipe Scale:** Users can reset the quantities of ingredients in the recipe to their original values. This feature is useful if the user wants to revert back to the original serving size after scaling the recipe.
 10. **Clear Recipe Data:** Users can clear all the data entered for the current recipe. This feature allows users to start afresh and enter a new recipe from scratch.
-11.** Exit Application:** Users can exit the application when they are done managing their recipes.
+11. **Exit Application:** Users can exit the application when they are done managing their recipes.
 12. **Installation**
 Clone the repository or download the source code.
 Open the solution in your preferred C# IDE (e.g., Visual Studio).
