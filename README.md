@@ -1,5 +1,5 @@
 # [ST10381088]-[Lindokuhle Zwane]-PROG6221-PART-1
-**Recipe Manager Application: **
+**Recipe Manager Application:**
 The Recipe Manager Application is a command-line tool designed to help users organize and manage their recipes effectively. It allows users to create, view, edit, and scale recipes based on their needs. The application provides a simple and intuitive interface for users to interact with.
 Steps for viewing the project:
 1. Open the first file that is written **[ST10381088]-[Lindokuhle Zwane]-PROG6221-PART-1.**
